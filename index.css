@@ -1,0 +1,55 @@
+/* .container-fluid{
+    background-color: rgb(17, 160, 243);
+}
+.topbar{
+    display: flex;
+    flex-direction: row;
+    justify-content : space-between;
+    padding: 25px 100px 0 100px; 
+}
+.sunny{
+    color: white;
+}
+.menu > ul > li{
+    display: inline;
+    margin-left: 100px;
+    text-align: center;
+}
+.menu >ul>li>a{
+    color: white;
+}
+.head{
+    text-align: center;
+    color: white;
+    padding-top: 50px;
+}
+.my-col{
+    background-color: white;
+} */
+
+.my-container{
+    background-color: rgb(14, 156, 238);
+   
+}
+.head{
+    
+    display: flex;
+    color: white;
+    flex-direction: row;
+    justify-content : space-between;
+    padding: 25px 100px 0 100px;
+    background-color: rgb(14, 156, 238);
+}
+.head>ul>li{
+    display: inline;
+    margin-left: 100px;
+    text-align: center;
+
+}
+.head>ul>li>a{
+    color: white;
+}
+.head1{
+    color: white;
+    text-align: center;
+}
